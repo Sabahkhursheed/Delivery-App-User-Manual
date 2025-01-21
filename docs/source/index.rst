@@ -1,19 +1,7 @@
-Welcome to Lumache's documentation!
+Delivery App User Manual
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
+Welcome to the Delivery Application User Manual! This guide is designed to help you navigate and make the most of your delivery application, whether you are a first-time user or an experienced professional. The application streamlines the entire delivery process, from order placement to final delivery, ensuring efficiency, reliability, and real-time updates. In this manual, you will find detailed instructions on how to use the app’s features, troubleshoot common issues, and maximize its capabilities to enhance your delivery experience. Let’s get started on a seamless journey with your delivery app!
 --------
 
 .. toctree::
